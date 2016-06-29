@@ -27,7 +27,8 @@
 var gl;
 
 window.onload = function init() {
-  var canvas = document.getElementById( "gl-canvas" );
+
+    var canvas = document.getElementById( "gl-canvas" );
 
     gl = WebGLUtils.setupWebGL( canvas );
     if ( !gl ) { alert( "WebGL isn't available" ); }
@@ -60,7 +61,9 @@ window.onload = function init() {
     render();
 };
 
-fucntion render() {
-  gl.clear( gl.COLOR_BUFFER_BIT );
-  gl.drawArrays( gl.POINTS, 0, points.length );
-};
+
+function render()
+{
+    gl.clear( gl.COLOR_BUFFER_BIT );
+    gl.drawArrays( gl.POINTS, 0, points.length );
+}
