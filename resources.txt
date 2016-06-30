@@ -11,3 +11,11 @@ http://www.w3schools.com/js/js_switch.asp
 https://developer.mozilla.org/en-US/docs/Web/API/WebGLShader
 http://www.fractalforums.com/new-theories-and-research/very-simple-formula-for-fractal-patterns/
 https://github.com/gpjt/webgl-lessons
+http://stackoverflow.com/questions/10752055/cross-origin-requests-are-only-supported-for-http-error-when-loading-a-local
+http://stackoverflow.com/questions/287903/enums-in-javascript
+http://stackoverflow.com/questions/196498/how-do-i-load-the-contents-of-a-text-file-into-a-javascript-variable
+http://api.jquery.com/load/
+http://iconhandbook.co.uk/reference/examples/favicons/
+http://stackoverflow.com/questions/5878703/webgl-is-there-an-alternative-to-embedding-shaders-in-html
+http://www.w3schools.com/jquery/jquery_dom_get.asp
+http://stackoverflow.com/questions/28814388/webgl-cannot-reader-property-createshader-of-null

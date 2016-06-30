@@ -1,7 +1,5 @@
-attribute vec4 vPosition;
+attribute vec4 position;
 
-void main()
-{
-	gl_PointSize = 1.0;
-  gl_Position = vPosition;
+void main() {
+  gl_Position = position;
 }
